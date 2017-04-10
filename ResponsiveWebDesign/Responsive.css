@@ -1,0 +1,19 @@
+body, html {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 100%;
+}
+.udacity{
+    vertical-align: middle;
+    width: 100%;
+}
+body{
+    font-family: Roboto;
+    font-size: 10px;
+    color: #424242;
+}
+img, embed, object, video {
+    max-width: 100%;
+
+}
